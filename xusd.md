@@ -13,7 +13,7 @@ Full visual walkthrough here: [How to Mint xUSD](how-to-guides/how-to-mint-yusd.
 _Supported wallets: Metamask, Trustwallet, Trezor, or Torus._
 
 1. Load your wallet with DAI, USDC, USDT, TUSD, or xCRV.
-2. Go to [vaults.finance](https://vaults.finance/).
+2. Go to [Xprofit.finance](https://vaults.finance/).
 3. Connect your wallet.
 4. Deposit your coins into the vault, receive yUSD.
 
