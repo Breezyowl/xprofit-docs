@@ -14,7 +14,7 @@ Capital pools that automatically generate yield based on opportunities present i
 
 The first Xprofit product was a lending aggregator. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols. Users can deposit to these lending aggregator smart contracts via the Earn page. This product completely optimizes the interest accrual process for end-users to ensure they are obtaining the highest interest rates at all times among the platforms specified above.
 
-### Zap
+### Liquility Miner
 
 A tool that enables users to swap into and out of (known as "Zapping") several liquidity pools available on Curve.Finance. These pools benefit from the lending aggregators discussed above, as well as earning users trading fees by partcipating as Liquidity Providers (LPs) on Curve.Fi. Currently users can use five stablecoins (BUSD, DAI, USDC, USDT, TUSD) and "Zap" into one of two pools (y.curve.fi or busd.curve.f) on Curve. Alternatively, users can "Zap" out of these two Curve pools and into one of the five base stablecoins.
 
