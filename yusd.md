@@ -1,12 +1,12 @@
-# yUSD
+# xUSD
 
-yUSD is an ERC-20 token issued by Yearn that **represents shares** in the most popular vault: the yCRV Vault \(listed as `curve.fi/y LP` on [vaults page](https://yearn.finance/vaults)\).
+xUSD is an ERC-20 token issued by Yearn that **represents shares** in the most popular vault: the yCRV Vault \(listed as `curve.fi/y LP` on [vaults page](https://yearn.finance/vaults)\).
 
-yUSD makes DeFi simple by automatically maximizing yield and minimizing risk for depositors. On the backend, the yCRV Vault implements modular, autonomous, yield-aware strategies.
+xUSD makes DeFi simple by automatically maximizing yield and minimizing risk for depositors. On the backend, the yCRV Vault implements modular, autonomous, yield-aware strategies.
 
 These are created and regularly updated by Yearn's community, all under the **control of Yearn governance.**
 
-## How to Get yUSD
+## How to Get xUSD
 
 Full visual walkthrough here: [How to Mint yUSD](how-to-guides/how-to-mint-yusd.md).
 
@@ -17,9 +17,9 @@ _Supported wallets: Metamask, Trustwallet, Trezor, or Torus._
 3. Connect your wallet.
 4. Deposit your coins into the vault, receive yUSD.
 
-## yUSD in Detail
+## xUSD in Detail
 
-You may also see yUSD referred to as `yyCRV` and `yyDAI+yUSDC+yUSDT+yTUSD` – both of these names are accurate and describe yUSD's composition.
+You may also see xUSD referred to as `xxCRV` and `xxDAI+xUSDC+xUSDT+xTUSD` – both of these names are accurate and describe xUSD's composition.
 
 yUSD accrues earnings from **three tiers** of Yearn's modular strategies:
 
